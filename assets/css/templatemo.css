@@ -818,6 +818,8 @@ Most Popular Style
 
 .recent-published .item img {
   border-radius: 23px;
+  max-width: 100%;
+  height: 150px;
 }
 
 .recent-published .item h4 {
